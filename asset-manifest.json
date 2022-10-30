@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Siren/static/css/main.f67a5541.css",
-    "main.js": "/Siren/static/js/main.120f34ba.js",
+    "main.js": "/Siren/static/js/main.786e9dea.js",
     "static/media/Signika-Regular.ttf": "/Siren/static/media/Signika-Regular.74654bb1ba36a7752df3.ttf",
     "static/media/Anton-Regular.ttf": "/Siren/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
     "static/media/OleoScript-Bold.ttf": "/Siren/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
     "static/media/logo.png": "/Siren/static/media/logo.666c57e2424666c0a216.png",
     "index.html": "/Siren/index.html",
     "main.f67a5541.css.map": "/Siren/static/css/main.f67a5541.css.map",
-    "main.120f34ba.js.map": "/Siren/static/js/main.120f34ba.js.map"
+    "main.786e9dea.js.map": "/Siren/static/js/main.786e9dea.js.map"
   },
   "entrypoints": [
     "static/css/main.f67a5541.css",
-    "static/js/main.120f34ba.js"
+    "static/js/main.786e9dea.js"
   ]
 }
