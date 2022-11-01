@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/Siren/static/css/main.b6eb67d2.css",
-    "main.js": "/Siren/static/js/main.1b9d4a28.js",
+    "main.css": "/Siren/static/css/main.b559b0d5.css",
+    "main.js": "/Siren/static/js/main.369084d1.js",
+    "static/media/homeback.jpg": "/Siren/static/media/homeback.efc204f05b7a437a6e55.jpg",
+    "static/media/record.jpg": "/Siren/static/media/record.7b05919a89029bedacab.jpg",
     "static/media/Signika-Regular.ttf": "/Siren/static/media/Signika-Regular.74654bb1ba36a7752df3.ttf",
     "static/media/Anton-Regular.ttf": "/Siren/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/play.png": "/Siren/static/media/play.74760c8965ef9d271151.png",
     "static/media/OleoScript-Bold.ttf": "/Siren/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
+    "static/media/logonew.png": "/Siren/static/media/logonew.8d6b68af770520072c57.png",
     "static/media/logo.png": "/Siren/static/media/logo.666c57e2424666c0a216.png",
     "index.html": "/Siren/index.html",
-    "main.b6eb67d2.css.map": "/Siren/static/css/main.b6eb67d2.css.map",
-    "main.1b9d4a28.js.map": "/Siren/static/js/main.1b9d4a28.js.map"
+    "main.b559b0d5.css.map": "/Siren/static/css/main.b559b0d5.css.map",
+    "main.369084d1.js.map": "/Siren/static/js/main.369084d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6eb67d2.css",
-    "static/js/main.1b9d4a28.js"
+    "static/css/main.b559b0d5.css",
+    "static/js/main.369084d1.js"
   ]
 }
