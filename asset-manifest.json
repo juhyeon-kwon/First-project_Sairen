@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Siren/static/css/main.d1c24b46.css",
-    "main.js": "/Siren/static/js/main.b215df43.js",
+    "main.css": "/Siren/static/css/main.b0abd5a6.css",
+    "main.js": "/Siren/static/js/main.851d19bf.js",
     "static/media/homeback.jpg": "/Siren/static/media/homeback.efc204f05b7a437a6e55.jpg",
     "static/media/record.jpg": "/Siren/static/media/record.7b05919a89029bedacab.jpg",
     "static/media/mobileback.jpg": "/Siren/static/media/mobileback.df2d5cdffaa4e32ba452.jpg",
@@ -17,11 +17,11 @@
     "static/media/logonew.png": "/Siren/static/media/logonew.8d6b68af770520072c57.png",
     "static/media/play2.png": "/Siren/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/Siren/index.html",
-    "main.d1c24b46.css.map": "/Siren/static/css/main.d1c24b46.css.map",
-    "main.b215df43.js.map": "/Siren/static/js/main.b215df43.js.map"
+    "main.b0abd5a6.css.map": "/Siren/static/css/main.b0abd5a6.css.map",
+    "main.851d19bf.js.map": "/Siren/static/js/main.851d19bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1c24b46.css",
-    "static/js/main.b215df43.js"
+    "static/css/main.b0abd5a6.css",
+    "static/js/main.851d19bf.js"
   ]
 }
