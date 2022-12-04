@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Siren/static/css/main.592d3304.css",
+    "main.css": "/Siren/static/css/main.36acfbc9.css",
     "main.js": "/Siren/static/js/main.253636ca.js",
     "static/media/homeback.jpg": "/Siren/static/media/homeback.efc204f05b7a437a6e55.jpg",
     "static/media/KoPubWorld Dotum Medium.ttf": "/Siren/static/media/KoPubWorld Dotum Medium.d4663cd37ec26b26240e.ttf",
@@ -18,11 +18,11 @@
     "static/media/logonew.png": "/Siren/static/media/logonew.8d6b68af770520072c57.png",
     "static/media/play2.png": "/Siren/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/Siren/index.html",
-    "main.592d3304.css.map": "/Siren/static/css/main.592d3304.css.map",
+    "main.36acfbc9.css.map": "/Siren/static/css/main.36acfbc9.css.map",
     "main.253636ca.js.map": "/Siren/static/js/main.253636ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.592d3304.css",
+    "static/css/main.36acfbc9.css",
     "static/js/main.253636ca.js"
   ]
 }
