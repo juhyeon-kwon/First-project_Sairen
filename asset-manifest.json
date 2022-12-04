@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Siren/static/css/main.705bf7c9.css",
-    "main.js": "/Siren/static/js/main.cf7088e4.js",
+    "main.css": "/Siren/static/css/main.592d3304.css",
+    "main.js": "/Siren/static/js/main.253636ca.js",
     "static/media/homeback.jpg": "/Siren/static/media/homeback.efc204f05b7a437a6e55.jpg",
     "static/media/KoPubWorld Dotum Medium.ttf": "/Siren/static/media/KoPubWorld Dotum Medium.d4663cd37ec26b26240e.ttf",
     "static/media/record.jpg": "/Siren/static/media/record.7b05919a89029bedacab.jpg",
@@ -18,11 +18,11 @@
     "static/media/logonew.png": "/Siren/static/media/logonew.8d6b68af770520072c57.png",
     "static/media/play2.png": "/Siren/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/Siren/index.html",
-    "main.705bf7c9.css.map": "/Siren/static/css/main.705bf7c9.css.map",
-    "main.cf7088e4.js.map": "/Siren/static/js/main.cf7088e4.js.map"
+    "main.592d3304.css.map": "/Siren/static/css/main.592d3304.css.map",
+    "main.253636ca.js.map": "/Siren/static/js/main.253636ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.705bf7c9.css",
-    "static/js/main.cf7088e4.js"
+    "static/css/main.592d3304.css",
+    "static/js/main.253636ca.js"
   ]
 }
