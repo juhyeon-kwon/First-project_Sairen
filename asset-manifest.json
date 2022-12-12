@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Siren/static/css/main.240673e5.css",
-    "main.js": "/Siren/static/js/main.3c6c2c1b.js",
+    "main.css": "/Siren/static/css/main.7b3ce585.css",
+    "main.js": "/Siren/static/js/main.5d47e5cf.js",
     "static/media/homeback.jpg": "/Siren/static/media/homeback.efc204f05b7a437a6e55.jpg",
     "static/media/KoPubWorld Dotum Medium.ttf": "/Siren/static/media/KoPubWorld Dotum Medium.d4663cd37ec26b26240e.ttf",
     "static/media/record.jpg": "/Siren/static/media/record.7b05919a89029bedacab.jpg",
@@ -13,18 +13,16 @@
     "static/media/playimage2.png": "/Siren/static/media/playimage2.5c62ddd1934f0f7bcdc7.png",
     "static/media/playimage1.png": "/Siren/static/media/playimage1.8abb02ad8fb488763524.png",
     "static/media/play.png": "/Siren/static/media/play.74760c8965ef9d271151.png",
-    "static/media/logo.png": "/Siren/static/media/logo.c70572caa1c3269e9ae3.png",
     "static/media/recordimg.png": "/Siren/static/media/recordimg.3b6bf6766ed8d47d545f.png",
-    "static/media/whitelogo.png": "/Siren/static/media/whitelogo.119e17b5ebb37cc9a9c3.png",
     "static/media/OleoScript-Bold.ttf": "/Siren/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
-    "static/media/logonew.png": "/Siren/static/media/logonew.8d6b68af770520072c57.png",
+    "static/media/udlogo.png": "/Siren/static/media/udlogo.e6f10d3d37021cd41f93.png",
     "static/media/play2.png": "/Siren/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/Siren/index.html",
-    "main.240673e5.css.map": "/Siren/static/css/main.240673e5.css.map",
-    "main.3c6c2c1b.js.map": "/Siren/static/js/main.3c6c2c1b.js.map"
+    "main.7b3ce585.css.map": "/Siren/static/css/main.7b3ce585.css.map",
+    "main.5d47e5cf.js.map": "/Siren/static/js/main.5d47e5cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.240673e5.css",
-    "static/js/main.3c6c2c1b.js"
+    "static/css/main.7b3ce585.css",
+    "static/js/main.5d47e5cf.js"
   ]
 }
