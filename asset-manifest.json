@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e62e21e.css",
-    "main.js": "/static/js/main.5c042fe7.js",
+    "main.css": "/static/css/main.8690b436.css",
+    "main.js": "/static/js/main.51756f40.js",
     "static/media/homeback.jpg": "/static/media/homeback.efc204f05b7a437a6e55.jpg",
     "static/media/KoPubWorld Dotum Medium.ttf": "/static/media/KoPubWorld Dotum Medium.d4663cd37ec26b26240e.ttf",
     "static/media/record.jpg": "/static/media/record.7b05919a89029bedacab.jpg",
     "static/media/mobileback.jpg": "/static/media/mobileback.df2d5cdffaa4e32ba452.jpg",
     "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.03c38496322925fec242.ttf",
-    "static/media/Signika-Regular.ttf": "/static/media/Signika-Regular.74654bb1ba36a7752df3.ttf",
-    "static/media/Anton-Regular.ttf": "/static/media/Anton-Regular.170b842f9a8cd6150a0d.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
     "static/media/playimage2.png": "/static/media/playimage2.5c62ddd1934f0f7bcdc7.png",
     "static/media/playimage1.png": "/static/media/playimage1.8abb02ad8fb488763524.png",
     "static/media/play.png": "/static/media/play.74760c8965ef9d271151.png",
     "static/media/udlogo.png": "/static/media/udlogo.fc469d0ee36f588578d5.png",
-    "static/media/recordimg.png": "/static/media/recordimg.3b6bf6766ed8d47d545f.png",
+    "static/media/whitelogo.png": "/static/media/whitelogo.119e17b5ebb37cc9a9c3.png",
     "static/media/OleoScript-Bold.ttf": "/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
     "static/media/play2.png": "/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/index.html",
-    "main.4e62e21e.css.map": "/static/css/main.4e62e21e.css.map",
-    "main.5c042fe7.js.map": "/static/js/main.5c042fe7.js.map"
+    "main.8690b436.css.map": "/static/css/main.8690b436.css.map",
+    "main.51756f40.js.map": "/static/js/main.51756f40.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e62e21e.css",
-    "static/js/main.5c042fe7.js"
+    "static/css/main.8690b436.css",
+    "static/js/main.51756f40.js"
   ]
 }
