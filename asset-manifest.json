@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d65152a2.css",
-    "main.js": "/static/js/main.f5f282c4.js",
+    "main.css": "/static/css/main.7fecf94c.css",
+    "main.js": "/static/js/main.955549cd.js",
     "static/media/KoPubWorld Dotum Medium.ttf": "/static/media/KoPubWorld Dotum Medium.d4663cd37ec26b26240e.ttf",
     "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/record.jpg": "/static/media/record.7b05919a89029bedacab.jpg",
@@ -17,11 +17,11 @@
     "static/media/OleoScript-Bold.ttf": "/static/media/OleoScript-Bold.49551f0a3cf38006d52b.ttf",
     "static/media/play2.png": "/static/media/play2.8a3064dfc443d6da9165.png",
     "index.html": "/index.html",
-    "main.d65152a2.css.map": "/static/css/main.d65152a2.css.map",
-    "main.f5f282c4.js.map": "/static/js/main.f5f282c4.js.map"
+    "main.7fecf94c.css.map": "/static/css/main.7fecf94c.css.map",
+    "main.955549cd.js.map": "/static/js/main.955549cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d65152a2.css",
-    "static/js/main.f5f282c4.js"
+    "static/css/main.7fecf94c.css",
+    "static/js/main.955549cd.js"
   ]
 }
